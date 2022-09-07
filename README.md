@@ -1,1 +1,1 @@
-# The_Sparks_Foundatio_Data_Science_-_Business_Analytics_internship
+# The_Sparks_Foundation_Data_Science_and_Business_Analytics_internship
